@@ -1,4 +1,6 @@
-What's up 👋
+**What's up, I'm Shubh.**
+### I'm going into my second year of Computer Science at Western and love building products.
+
 
 <!--
 **shubhhpatel/shubhhpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
