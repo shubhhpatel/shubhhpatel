@@ -6,6 +6,7 @@
 - 🫵 You can reach me at [spate768@uwo.ca](mailto:spate768@uwo.ca) or connect with me on my [LinkedIn](https://www.linkedin.com/in/-shubhpatel/)
 
 Thanks for reading and have a great rest of your day!
+
 <!--
 **shubhhpatel/shubhhpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
