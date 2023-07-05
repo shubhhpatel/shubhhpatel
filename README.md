@@ -1,4 +1,4 @@
-**What's up, I'm Shubh.**
+***What's up, I'm Shubh.***
 ### I'm going into my second year of Computer Science at Western and love building products.
 
 
