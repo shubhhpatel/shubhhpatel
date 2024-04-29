@@ -3,12 +3,12 @@
 
 - 🌎 Check out my portfolio website [here](https://shubh.online)
 - 🎧 Check out this [website](https://www.localify.live/) I made that lets you add any song you want on Spotify
-- 🏟️ Check out this [product feature](https://docs.google.com/presentation/d/1RS0qyznm0DOrBhaXJEe_SjJhddU0H9oA4R5EVZtROHo/edit?usp=sharing) I think TicketMaster should implement
+- 🏟️ Check out this [product feature](https://docs.google.com/presentation/d/1RS0qyznm0DOrBhaXJEe_SjJhddU0H9oA4R5EVZtROHo/edit?usp=sharing) TicketMaster should implement
 - 🫵 You can reach me at [spate768@uwo.ca](mailto:spate768@uwo.ca) or connect with me on my [LinkedIn](https://www.linkedin.com/in/-shubhpatel/)
 
 Thanks for reading and have a great rest of your day!
 
-Last updated April 11, 2024.
+Last updated April 29, 2024.
 
 <!--
 **shubhhpatel/shubhhpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
