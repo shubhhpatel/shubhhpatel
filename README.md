@@ -1,14 +1,14 @@
 # What's up, I'm Shubh 🫡
-### I'm in my second year of Computer Science at Western and love building useful products for myself and those around me 🫶 
+### I'm in my third year of Computer Science nd Business at Western University and Ivey Business School and love building useful products for myself and those around me 🫶 
 
-- 🌎 Check out my portfolio website [here](https://shubh.online)
+- 🌎 Check out my portfolio website [here](https://shubhhpatel.github.io/)
 - 🎧 Check out this [website](https://www.localify.live/) I made that lets you add any song you want on Spotify
 - 🏟️ Check out this [product feature](https://docs.google.com/presentation/d/1RS0qyznm0DOrBhaXJEe_SjJhddU0H9oA4R5EVZtROHo/edit?usp=sharing) TicketMaster should implement
-- 🫵 You can reach me at [spate768@uwo.ca](mailto:spate768@uwo.ca) or connect with me on my [LinkedIn](https://www.linkedin.com/in/-shubhpatel/)
+- 🫵 You can reach me at [spatel.hba2026@ivey.ca](mailto:spatel.hba2026@ivey.ca) or connect with me on my [LinkedIn](https://www.linkedin.com/in/-shubhpatel/)
 
 Thanks for reading and have a great rest of your day!
 
-Last updated April 29, 2024.
+Last updated January 14, 2025.
 
 <!--
 **shubhhpatel/shubhhpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
