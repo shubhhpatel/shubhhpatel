@@ -1,5 +1,5 @@
 # What's up, I'm Shubh 🫡
-### I'm in my third year of Computer Science nd Business at Western University and Ivey Business School and love building useful products for myself and those around me 🫶 
+### I'm in my third year of Computer Science and Business at Western University and Ivey Business School and love building useful products for myself and those around me 🫶 
 
 - 🌎 Check out my portfolio website [here](https://shubhhpatel.github.io/)
 - 🎧 Check out this [website](https://www.localify.live/) I made that lets you add any song you want on Spotify
